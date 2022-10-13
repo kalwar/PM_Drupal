@@ -4,6 +4,8 @@ Customer portal using OpenLucius Drupal module. The goal is to be easy-to-use so
 
 Goal is also to create an optimal developer -and site builder experience for building add-on modules and easy management / updates.
 
+![Alt text](/screenshot.png?raw=true "Optional Title")
+
 ## Installing OpenLucius
 
 Install it using Composer:
